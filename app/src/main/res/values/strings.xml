@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Belajar SQLite</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="simpan">Simpan</string>
+    <string name="update">update</string>
+    <string name="hapus">hapus</string>
+</resources>
